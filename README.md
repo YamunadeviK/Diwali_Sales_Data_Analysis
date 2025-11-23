@@ -1,4 +1,5 @@
 🎉 Diwali Sales Data Analysis (Python + Power BI)
+
 📌 Project Overview
 
 This project analyzes Diwali sales data using Python for data cleaning and Exploratory Data Analysis (EDA), and Power BI for creating dynamic and interactive dashboards.
