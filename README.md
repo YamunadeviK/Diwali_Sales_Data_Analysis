@@ -23,18 +23,27 @@ Power BI Desktop
 CSV Dataset
 
 📂 Project Structure
+
 Diwali-Sales-Data-Analysis/
+
 │── Python/
+
 │── PowerBI/
+
 │── Documents/
+
 │── README.md
 
 🧪 Python Tasks Performed
 
 ✓ Data cleaning (handling null values, fixing data types)
+
 ✓ Exploratory Data Analysis (EDA)
+
 ✓ Gender, age, occupation, and state-wise sales analysis
+
 ✓ Spending behavior insights
+
 ✓ Visualizations using Matplotlib & Seaborn
 
 📌 Notebook location: Python/Diwali_Sales_Analysis.ipynb
@@ -42,9 +51,13 @@ Diwali-Sales-Data-Analysis/
 📊 Power BI Dashboard Features
 
 ✓ KPI cards → Total Sales, Orders, Customers
+
 ✓ Slicers → Gender, Age Group, State, Occupation
+
 ✓ Visuals → Bar, Pie, Donut, Line Charts
+
 ✓ Customer segmentation visuals
+
 ✓ Most profitable product categories
 
 📌 Dashboard location: PowerBI/Diwali_Sales_Dashboard.pbix
